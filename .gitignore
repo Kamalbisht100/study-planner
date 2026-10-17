@@ -1,3 +1,8 @@
 node_modules/
 .env
 dist/
+
+
+# Personal study plans
+PHASE_1_DEVELOPMENT_PLAN/
+PRE_REQUISTES/
